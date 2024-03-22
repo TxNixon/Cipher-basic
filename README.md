@@ -19,26 +19,30 @@ To run this application, you will need Python and Flask installed on your system
 
 ```bash
 git clone https://github.com/TxNixon/Cipher-basic
+```
 
 2. Navigate to the cloned repository directory
 
 ```bash
 cd Cipher-basic
+```
 
 3. Install the required Python packages
 
 ```bash
 pip install flask
+```
 
 4. Run the application
 
 ```bash
 python main.py
+```
 
 5. Open your web browser usually it goes to 'http://127.0.0.1:5000/' to start using the app
 
 
-**## Usage:**
+## Usage:
  
 1. To Encrypt Text: Choose 'Encrypt', enter your text and the shift amount, then click 'Submit'.
 The encrypted text will be displayed.
